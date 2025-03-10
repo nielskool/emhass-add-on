@@ -1,6 +1,6 @@
 name: EMHASS
 description: Energy Management for Home Assistant
-url: https://github.com/davidusb-geek/emhass
+url: https://github.com/nielskool/emhass
 version: v0.12.8 #set if use image container version
 slug: emhass
 arch:
