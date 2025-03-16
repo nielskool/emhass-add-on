@@ -8,7 +8,7 @@ arch:
   - amd64
   - armhf
   - armv7
-image: "ghcr.io/davidusb-geek/emhass" #set if use image container repository
+image: "ghcr.io/nielskool/emhass" #set if use image container repository
 ports:
   5000/tcp: 5000
 ports_description:
