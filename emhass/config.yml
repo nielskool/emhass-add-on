@@ -1,7 +1,7 @@
 name: EMHASS-niels
 description: Energy Management for Home Assistant
 url: https://github.com/nielskool/emhass
-version: v.01 #set if use image container version
+version: v.0.1.2 #set if use image container version
 slug: emhass
 arch:
   - aarch64
